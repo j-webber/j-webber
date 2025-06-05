@@ -1,4 +1,4 @@
-# Hey there, I'm Joe 👋
+### Hey there, I'm Joe 👋
 
 I'm a recovering sales addict now hooked on web development.
 
