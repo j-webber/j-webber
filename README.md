@@ -6,3 +6,4 @@
 
 ### What I'm working on
 - 🎥 [WatchNow AI](https://watchnowai.com) - **AI-powered movie recs** - The project that started it all. I spent 6 months learning how to code to build V1. Since then, I've rebuilt it more times than I'd like to admit, helped thousands find a movie to watch, and made enough to buy a few bags of ramen along the way 😉.
+- 🤖 Sales Call Analytics Tool — pulls sales call transcripts via the Otter.ai API, scores them against business outcomes using the Claude API, and generates coaching feedback. Self-initiated, not assigned.
